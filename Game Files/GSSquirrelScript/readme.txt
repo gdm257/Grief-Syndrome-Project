@@ -1,0 +1,1 @@
+This folder contains the data folder for the original game scripts, which can also be found at ( https://github.com/GriefSyndromeModderTools/GSSquirrelScript ).

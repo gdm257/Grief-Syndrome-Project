@@ -1,0 +1,9 @@
+Bulk sprite extraction: [GS_graph] -n -r -d [Folder path here]
+
+Compile sprites into .cv2: [GS_graph] -n -d [Folder path here]
+
+Palette extraction: [GS_graph] -a -p [Palette path here]
+
+Palette compile: [GS_graph] -a -m [Palette sprite path here]
+
+Sprites that use palettes extraction: [GS_graph] -r -p [Palette path Here] -d [Folder path here]

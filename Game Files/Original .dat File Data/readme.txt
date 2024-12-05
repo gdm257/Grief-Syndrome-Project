@@ -1,0 +1,1 @@
+This folder contains the files from the original .dat files, each one catergorized into the gs0X folder that they were extracted from.

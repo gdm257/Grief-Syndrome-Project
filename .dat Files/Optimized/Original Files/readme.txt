@@ -1,0 +1,1 @@
+An optimized variation that compresses the gs01.dat and gs02.dat into the gs00.dat file. This allows the usage of the gs01.dat, gs02.dat, and the gs03.dat files for custom mods at the same time. Useful for batch testing with different variations.
