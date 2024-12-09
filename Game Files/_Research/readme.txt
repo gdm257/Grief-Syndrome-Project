@@ -1,0 +1,1 @@
+A work in progress for research being done on the inner workings of the game's code. Each script will be given it's own step by step understanding on how each part works, and how each part seemingly effects the game. As of this point in time, the progress is still quite fresh, and there is more to discover here.
