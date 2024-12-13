@@ -1,0 +1,143 @@
+Enemy1A = Ambush Variant
+
+Enemy1A_Hide = Roaming Variant
+
+Enemy1A_Big = Big Variant
+
+Enemy1A_Shot = Scissors Thrower Variant
+
+Enemy1A_Slave = Boss summon
+
+Enemy1B = Ambush Variant
+
+Enemy1B_Hide = Roaming Variant
+
+Enemy1B_Thorn = Rushes and transforms
+
+Enemy1B_BackThorn = Approaches from behind and transforms
+
+Enemy1C = Ambush Variant
+
+Enemy1C_LR = Rush and ring Variant
+
+Enemy1C_Hide = Roaming Variant
+
+Enemy1C_Big = Big Variant (Unused)
+
+Boss1 = Gertrud
+
+ThornBall = 
+
+Enemy2A = Ambush Variant
+
+Enemy2A_Hide = Roaming Variant
+
+Enemy2A_BackWait = 
+
+Enemy2A_AttackIn = 
+
+Enemy2A_AttackIn_Hide = Roaming Variant
+
+Enemy2A_Big = Ambush Variant
+
+Enemy2A_Big_AttackIn = 
+
+Enemy2A_Slave = 
+
+Boss2_1 = Charlotte 1st Phase
+
+Boss2 = Charlotte 2nd Phase
+
+Enemy3A = Ambush Variant
+
+Enemy3A_Hide = Roaming Variant
+
+Enemy3A_Big = 
+
+Enemy3A_BossSlabe = 
+
+Enemy3B = Ambush Variant
+
+Enemy3B_CRT = 
+
+Enemy3B_CRT_Hide = Roaming Variant
+
+Enemy3B_CRT_B = 
+
+Enemy3B_CRT_B_Hide = Roaming Variant
+
+Enemy3B_Display = 
+
+Enemy3B_Display_Hide = Roaming Variant
+
+Enemy3C = 
+
+Enemy3Cb = 
+
+Boss3 = H.N. Elly Kirsten
+
+Boss3_Dummy = 
+
+Enemy4A = Ambush Variant
+
+Enemy4A_Boss = 
+
+Enemy4A_Small = 
+
+Enemy4A_Boss_Small = 
+
+Enemy4A_Big = 
+
+Enemy4B = Ambush Variant
+
+Enemy4B_Boss = 
+
+Enemy4B_Small = 
+
+Enemy4B_Boss_Small = 
+
+Enemy4B_Big = 
+
+Enemy4B_ShotOnly = 
+
+Enemy4B_ShotOnly_Small = 
+
+Enemy4C = Ambush Variant
+
+Enemy4C_Boss = 
+
+Enemy4C_Small = 
+
+Enemy4C_Boss_Small = 
+
+Enemy4C_Big = 
+
+Boss4 = Elsa Maria
+
+Boss5 = Oktavia
+
+Enemy6A = Ambush Variant
+
+Enemy6A_WarpOut = 
+
+Enemy6A_Hide = Roaming Variant
+
+Enemy6A_ShotOnly_Hide = Roaming Variant
+
+Enemy6A_BeamAway = 
+
+Enemy6A_Boss = 
+
+Enemy6B = Ambush Variant
+
+Enemy6B_Hide = Roaming Variant
+
+Enemy6C = Ambush Variant
+
+Enemy6C_Hide = Roaming Variant
+
+Enemy6C_Atk = 
+
+Enemy6C_WarpOut = 
+
+Boss6 = ????? (Walpurgisnacht)
