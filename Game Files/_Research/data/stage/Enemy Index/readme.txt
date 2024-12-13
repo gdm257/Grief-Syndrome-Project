@@ -1,0 +1,3 @@
+A documentation of the enemies that are within Grief Syndrome. By swapping the names around with the names found in the "_List.txt" it is possible to change which enemies appear in the stages.
+
+The "this.world2d.CreateAnimationData("data/actor/enemy1st/enemy.pat");" sections seem to be required for the game to load enemies and bosses without crashing. However, bosses do not seem to work outside of their boss arenas. Perhaps becaus of the fact that the triggers to make them active do not exsit just anywhere.
